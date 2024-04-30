@@ -1,5 +1,5 @@
-# testrepo
+# IBM Data Analyst Capstone Project 
 
-## Editing the file
+## Building a Dashboard With IBM Cognos
 
-Its a markdown file in this repository.
+This is file of created dashboards for current technology uses by respondents, future technology trends by respondents, and respondent demographics.
